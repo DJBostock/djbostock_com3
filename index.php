@@ -4,4 +4,6 @@ $title = "Home";
 
 ?>
 
-<html></html>
+<html>
+    <head></head>
+</html>
