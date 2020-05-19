@@ -5,5 +5,7 @@ $title = "Home";
 ?>
 
 <html>
-    <head></head>
+    <head>
+        <title><?= $title; ?></title>
+    </head>
 </html>
