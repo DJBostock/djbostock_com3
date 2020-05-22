@@ -8,5 +8,7 @@ $title = "Home";
     <head>
         <title><?= $title; ?></title>
     </head>
-    <body></body>
+    <body>
+        <h1>Home</h1>
+    </body>
 </html>
