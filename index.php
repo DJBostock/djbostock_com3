@@ -4,6 +4,7 @@ $title = "Home";
 
 ?>
 
+<!DOCTYPE html>
 <html>
     <head>
         <title><?= $title; ?></title>
