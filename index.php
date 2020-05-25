@@ -10,7 +10,6 @@ $title = "Home";
         <title><?= $title; ?></title>
     </head>
     <body>
-        <h1>Home</h1>
-        <p>Welcome to my homepage.</p>
+        <h1>The Primary Header</h1>
     </body>
 </html>
