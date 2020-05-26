@@ -11,5 +11,6 @@ $title = "Home";
     </head>
     <body>
         <h1>The Primary Header</h1>
+        <h2>A Secondary Header</h2>
     </body>
 </html>
