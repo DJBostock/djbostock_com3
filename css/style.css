@@ -1,9 +1,13 @@
 :root {
   --color-1: #f9f7f7;
+  --color-2: #dbe2ef;
+  --color-3: #3f72af;
+  --color-4: #112d4e;
 }
 
 body {
   background-color: var(--color-1);
+  color: var(--color-4);
 }
 
 .container {
@@ -14,7 +18,7 @@ body {
 }
 
 .hero {
-  border: 2px solid black;
+  border: 2px solid var(--color-4);
   border-radius: 50%;
   max-width: 200px;
 }
