@@ -17,8 +17,8 @@ $title = "Home";
         <header>
             <h1>The Primary Header</h1>
             <img src="/images/happy-stick.jpg" class="hero" alt="smiling stick figure head and shoulders">
-
         </header>
+        <nav></nav>
         <h2>A Secondary Header</h2>
         <p>This is some main content. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magni ratione mollitia velit, neque eum molestias, tempora nam cupiditate veritatis eius accusamus. Ex, rerum. Dolorem rem veniam modi animi sit?</p>
         <h2>Another Secondary Header</h2>
