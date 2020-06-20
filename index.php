@@ -28,6 +28,7 @@ $title = "Home";
                 <h2>Another Secondary Header</h2>
                 <p>This is some more main content. <a href="https://wikipedia.org">Wikipedia</a> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa amet cum obcaecati quas sint impedit ex eaque itaque, accusantium blanditiis possimus animi tempora, expedita est voluptas assumenda explicabo ad libero.</p>
             </section>
+            <aside></aside>
         </main>
     </div>
 </body>
