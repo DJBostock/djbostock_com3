@@ -30,6 +30,7 @@ $title = "Home";
             </section>
             <aside></aside>
         </main>
+        <footer></footer>
     </div>
 </body>
 
