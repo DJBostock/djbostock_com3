@@ -28,10 +28,6 @@ $title = "DJ Bostock";
                 <h2>Welcome!</h2>
                 <p>Welcome to my page. It exists primarily as a sandbox for me to try stuff out.</p>
             </section>
-            <section>
-                <h2></h2>
-                <p></p>
-            </section>
             <aside></aside>
         </main>
         <footer></footer>
