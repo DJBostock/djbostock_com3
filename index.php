@@ -20,11 +20,11 @@ $title = "DJ Bostock";
         </header>
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.php#home">Home</a></li>
             </ul>
         </nav>
         <main>
-            <section>
+            <section id="home">
                 <h2>Welcome!</h2>
                 <p>Welcome to my page. It exists primarily as a sandbox for me to try stuff out.</p>
             </section>
