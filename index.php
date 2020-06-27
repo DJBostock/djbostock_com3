@@ -21,12 +21,17 @@ $title = "DJ Bostock";
         <nav>
             <ul>
                 <li><a href="index.php#home">Home</a></li>
+                <li><a href="index.php#aboutMe">About Me</a></li>
             </ul>
         </nav>
         <main>
             <section id="home">
                 <h2>Welcome!</h2>
                 <p>Welcome to my page. It exists primarily as a sandbox for me to try stuff out.</p>
+            </section>
+            <section id="aboutMe">
+                <h2>About Me</h2>
+                <p>All the things you ever wanted to know...</p>
             </section>
             <aside></aside>
         </main>
