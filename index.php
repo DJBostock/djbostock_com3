@@ -22,6 +22,7 @@ $title = "DJ Bostock";
             <ul>
                 <li><a href="index.php#home">Home</a></li>
                 <li><a href="index.php#aboutMe">About Me</a></li>
+                <li><a href="index.php#projects">Projects</a></li>
             </ul>
         </nav>
         <main>
@@ -32,6 +33,10 @@ $title = "DJ Bostock";
             <section id="aboutMe">
                 <h2>About Me</h2>
                 <p>All the things you ever wanted to know...</p>
+            </section>
+            <section id="projects">
+                <h2>Projects</h2>
+                <p>Some very impressive representations of work done...</p>
             </section>
             <aside></aside>
         </main>
