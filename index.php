@@ -23,6 +23,7 @@ $title = "DJ Bostock";
                 <li><a href="index.php#home">Home</a></li>
                 <li><a href="index.php#aboutMe">About Me</a></li>
                 <li><a href="index.php#projects">Projects</a></li>
+                <li><a href="index.php#contactMe">Contact Me</a></li>
             </ul>
         </nav>
         <main>
@@ -41,6 +42,11 @@ $title = "DJ Bostock";
                 <p>Some very impressive representations of work done...</p>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga, accusamus velit. Enim officia dolore consequatur beatae! Facilis, odio repellat est dolorum explicabo eaque nihil ducimus harum sed sint fugiat aperiam?</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel eaque amet fugit corrupti aut, numquam fugiat quae, at magni, earum harum sit dignissimos deleniti necessitatibus. Magni modi ad praesentium non!</p>
+            </section>
+            <section id="contactMe">
+                <h2>Contact Me</h2>
+                <p>All the ways that a person can get ahold of me...</p>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum placeat reiciendis hic? Eius, inventore tenetur numquam quaerat at, nemo consectetur aspernatur quasi temporibus dignissimos magni dolor quod maxime recusandae. Corrupti?</p>
             </section>
             <aside></aside>
         </main>
