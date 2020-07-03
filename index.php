@@ -46,6 +46,7 @@ $title = "DJ Bostock";
             <section id="contactMe">
                 <h2>Contact Me</h2>
                 <p>All the ways that a person can get ahold of me...</p>
+                <p>For the time being, it is mostly my email: <a href="mailto:douglasjbostock@gmail.com">douglasjbostock@gmail.com</a>.</p>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum placeat reiciendis hic? Eius, inventore tenetur numquam quaerat at, nemo consectetur aspernatur quasi temporibus dignissimos magni dolor quod maxime recusandae. Corrupti?</p>
             </section>
             <aside></aside>
