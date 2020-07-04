@@ -53,6 +53,7 @@ $title = "DJ Bostock";
         </main>
         <footer></footer>
     </div>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
