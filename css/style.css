@@ -17,6 +17,7 @@ section {
 
 .container {
   border: 0;
+  display: flex;
   margin: 0 auto;
   max-width: 800px;
   padding: 0;
