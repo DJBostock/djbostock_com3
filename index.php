@@ -19,7 +19,7 @@ $title = "DJ Bostock";
             <img src="/images/happy-stick.jpg" class="hero" alt="smiling stick figure head and shoulders">
         </header>
         <nav>
-            <ul>
+            <ul class="navbar">
                 <li><a href="index.php#home">Home</a></li>
                 <li><a href="index.php#aboutMe">About Me</a></li>
                 <li><a href="index.php#projects">Projects</a></li>
