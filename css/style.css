@@ -11,6 +11,10 @@ body {
   line-height: 1.2rem;
 }
 
+nav {
+  padding-bottom: 10px;
+}
+
 section {
   border-top: 2px solid var(--color-4);
 }
