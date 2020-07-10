@@ -51,7 +51,9 @@ $title = "DJ Bostock";
             </section>
             <aside></aside>
         </main>
-        <footer></footer>
+        <footer>
+            <p><span id="currentYear"></span>&copy;&nbsp;DJ Bostock</p>
+        </footer>
     </div>
     <script src="js/script.js"></script>
 </body>
