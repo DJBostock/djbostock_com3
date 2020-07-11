@@ -32,6 +32,8 @@ nav {
 .hero {
   border: 2px solid var(--color-4);
   border-radius: 50%;
+  display: block;
+  margin: 10px auto;
   max-width: 200px;
 }
 
