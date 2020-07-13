@@ -24,11 +24,12 @@ nav {
 .container {
   background-color: var(--color-1);
   border: 2px solid var(--color-4);
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
   max-width: 800px;
-  padding: 0;
+  padding: 10px;
 }
 
 .hero {
