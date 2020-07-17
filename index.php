@@ -39,9 +39,10 @@ $title = "DJ Bostock";
             </section>
             <section id="projects">
                 <h2>Projects</h2>
-                <p>Some very impressive representations of work done...</p>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga, accusamus velit. Enim officia dolore consequatur beatae! Facilis, odio repellat est dolorum explicabo eaque nihil ducimus harum sed sint fugiat aperiam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel eaque amet fugit corrupti aut, numquam fugiat quae, at magni, earum harum sit dignissimos deleniti necessitatibus. Magni modi ad praesentium non!</p>
+                <div class="project">
+                    <h3><a href="https://github.com/DJBostock/hello-world-java" target="_blank">Hello World in Java</a></h3>
+                    <p>This is a Github repo with an example of a Hello, World program written in Java.</p>
+                </div>
             </section>
             <section id="contactMe">
                 <h2>Contact Me</h2>
