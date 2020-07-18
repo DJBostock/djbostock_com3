@@ -43,6 +43,10 @@ $title = "DJ Bostock";
                     <h3><a href="https://github.com/DJBostock/hello-world-java" target="_blank">Hello World in Java</a></h3>
                     <p>This is a Github repo with an example of a Hello, World program written in Java.</p>
                 </div>
+                <div class="project">
+                    <h3><a href="https://github.com/DJBostock/helloWorldCPP" target="_blank">Hello World in C++</a></h3>
+                    <p>This is a Github repo with an example of a Hello, World program written in C++</p>
+                </div>
             </section>
             <section id="contactMe">
                 <h2>Contact Me</h2>

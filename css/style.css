@@ -59,6 +59,7 @@ section {
   border: 2px solid var(--color-2);
   border-radius: 10px;
   margin: 5px;
+  padding: 5px;
 }
 
 .project h3 {
