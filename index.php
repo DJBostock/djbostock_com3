@@ -40,6 +40,10 @@ $title = "DJ Bostock";
             <section id="projects">
                 <h2>Projects</h2>
                 <div class="project">
+                    <h3><a href="https://github.com/DJBostock/calculate-area-of-a-room" target="_blank">Calculate the Area of a Room in C++</a></h3>
+                    <p>This is a Github repo with the code for a C++ program that can be used to calculate the area of a room.</p>
+                </div>
+                <div class="project">
                     <h3><a href="https://github.com/DJBostock/hello-world-java" target="_blank">Hello World in Java</a></h3>
                     <p>This is a Github repo with an example of a Hello, World program written in Java.</p>
                 </div>
