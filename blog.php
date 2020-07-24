@@ -43,7 +43,7 @@ if (mysqli_connect_error()) {
                 <?php foreach ($articles as $article): ?>
                     <li>
                         <section>
-                            <h2><?= $article['title']; ?></h2>
+                            <h2><a href="article.php?id=<?= $article['id']; ?>"><?= $article['title']; ?></a></h2>
                             <p><?= $article['content']; ?></p>
                         </section>
                     </li>

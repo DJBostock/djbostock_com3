@@ -8,9 +8,15 @@ if (mysqli_connect_error()) {
     echo mysqli_connect_error();
     exit;
 } else {
+    if (isset($_GET['id']) && is_numeric($_GET['id'])) {
+        $id = $_GET['id'];
+    } else {
+        $id = 0;
+    }
+
     $sql = "SELECT *
             FROM article
-            WHERE id = 1;";
+            WHERE id = $id;";
 
     $results = mysqli_query($conn, $sql);
 
