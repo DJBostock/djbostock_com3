@@ -1,24 +1,18 @@
 <?php
 
-include './includes/db_credentials.php';
+include './includes/db_connection.php';
 
-$conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
+$sql = "SELECT * FROM article ORDER BY created_at;";
 
-if (mysqli_connect_error()) {
-    echo mysqli_connect_error();
-    exit;
+$results = mysqli_query($conn, $sql);
+
+if ($results === false) {
+    echo mysqli_error($conn);
 } else {
-    $sql = "SELECT * FROM article ORDER BY created_at;";
-
-    $results = mysqli_query($conn, $sql);
-
-    if ($results === false) {
-        echo mysqli_error($conn);
-    } else {
-        $articles = mysqli_fetch_all($results, MYSQLI_ASSOC);
-        // var_dump($articles);
-    }
+    $articles = mysqli_fetch_all($results, MYSQLI_ASSOC);
+    // var_dump($articles);
 }
+
 ?>
 
 <!DOCTYPE html>
