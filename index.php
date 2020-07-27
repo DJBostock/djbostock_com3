@@ -30,6 +30,7 @@ $title = "DJ Bostock";
             <section id="home">
                 <h2>Welcome!</h2>
                 <p>Welcome to my page. It exists primarily as a sandbox for me to try stuff out.</p>
+                <p>Things are likely to be broken or moved around half the time. This isn't really a portfolio or other production website.</p>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque velit magni voluptate officia placeat nam suscipit dolores quaerat, non omnis dignissimos voluptas alias quae dolorum optio cupiditate ut aut quia?</p>
             </section>
             <section id="aboutMe">
