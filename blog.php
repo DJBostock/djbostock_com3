@@ -45,7 +45,6 @@ if ($results === false) {
             </ul>
         <?php endif; ?>
     </main>
-
 </body>
 
 </html>
