@@ -10,7 +10,7 @@
 <body>
     <h1>New Entry</h1>
     <form action="process-form.php">
-        <input type="text">
+        <input type="text" name="user_input">
         <button>Send</button>
     </form>
 </body>
