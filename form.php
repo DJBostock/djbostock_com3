@@ -8,8 +8,10 @@
 </head>
 
 <body>
+    <?php var_dump($_GET); ?>
+
     <h1>New Entry</h1>
-    <form action="process-form.php">
+    <form action="form.php">
         <input type="text" name="user_input">
         <button>Send</button>
     </form>
