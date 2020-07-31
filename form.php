@@ -8,11 +8,12 @@
 </head>
 
 <body>
-    <?php var_dump($_GET); ?>
+    <?php var_dump($_POST); ?>
 
     <h1>New Entry</h1>
-    <form action="form.php">
-        <input type="text" name="user_input">
+    <form action="form.php" method="post">
+        <input type="text" name="user_name">
+        <input type="password" name="user_password">
         <button>Send</button>
     </form>
 </body>
