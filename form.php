@@ -8,7 +8,11 @@
 </head>
 
 <body>
-    <?php var_dump($_POST); ?>
+    <?php
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        var_dump($_POST);
+    }
+    ?>
 
     <h1>New Entry</h1>
     <form action="form.php" method="post">
