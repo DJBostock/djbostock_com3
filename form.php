@@ -16,8 +16,14 @@
 
     <h1>New Entry</h1>
     <form action="form.php" method="post">
-        <input type="text" name="user_name">
-        <input type="password" name="user_password">
+        <div>
+            <label for="user_name">User Name:</label>
+            <input type="text" name="user_name">
+        </div>
+        <div>
+            <label for="user_password">Password:</label>
+            <input type="password" name="user_password">
+        </div>
         <button>Send</button>
     </form>
 </body>
