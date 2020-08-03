@@ -21,6 +21,10 @@
             <input type="text" name="user_name">
         </div>
         <div>
+            <label for="user_email">Email:</label>
+            <input type="email" name="user_email">
+        </div>
+        <div>
             <label for="user_password">Password:</label>
             <input type="password" name="user_password">
         </div>
