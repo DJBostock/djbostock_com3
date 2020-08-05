@@ -34,6 +34,10 @@
             <label for="user_password">Password:</label>
             <input type="password" name="user_password">
         </div>
+        <div>
+            <label for="user_message">Message:</label>
+            <textarea name="user_message"></textarea>
+        </div>
         <button>Send</button>
     </form>
 </body>
