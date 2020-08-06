@@ -38,6 +38,14 @@
             <label for="user_message">Message:</label>
             <textarea name="user_message"></textarea>
         </div>
+        <div>
+            <label for="user_select">Character Race:</label>
+            <select name="user_select">
+                <option value="human">Human</option>
+                <option value="elf">Elf</option>
+                <option value="dwarf">Dwarf</option>
+            </select>
+        </div>
         <button>Send</button>
     </form>
 </body>
