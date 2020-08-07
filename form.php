@@ -50,6 +50,12 @@
             <label for="user_checkbox">User Checkbox:</label>
             <input type="checkbox" name="user_checkbox" value="yes">
         </div>
+        <div>
+            <p>Pick a color:</p>
+            <input type="radio" value="red" name="user_color"><label for="user_color">Red</label>
+            <input type="radio" value="blue" name="user_color"><label for="user_color">Blue</label>
+            <input type="radio" value="green" name="user_color"><label for="user_color">Green</label>
+        </div>
         <button>Send</button>
     </form>
 </body>
