@@ -46,6 +46,10 @@
                 <option value="dwarf">Dwarf</option>
             </select>
         </div>
+        <div>
+            <label for="user_checkbox">User Checkbox:</label>
+            <input type="checkbox" name="user_checkbox" value="yes">
+        </div>
         <button>Send</button>
     </form>
 </body>
