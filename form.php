@@ -24,23 +24,23 @@
     <form action="form.php" method="post">
         <div>
             <label for="user_name">User Name:</label>
-            <input type="text" name="user_name">
+            <input type="text" name="user_name" id="user_name">
         </div>
         <div>
             <label for="user_email">Email:</label>
-            <input type="email" name="user_email">
+            <input type="email" name="user_email" id="user_email">
         </div>
         <div>
             <label for="user_password">Password:</label>
-            <input type="password" name="user_password">
+            <input type="password" name="user_password" id="user_password">
         </div>
         <div>
             <label for="user_message">Message:</label>
-            <textarea name="user_message"></textarea>
+            <textarea name="user_message" id="user_message"></textarea>
         </div>
         <div>
             <label for="user_select">Character Race:</label>
-            <select name="user_select">
+            <select name="user_select" id="user_select">
                 <option value="human">Human</option>
                 <option value="elf">Elf</option>
                 <option value="dwarf">Dwarf</option>
@@ -48,7 +48,7 @@
         </div>
         <div>
             <label for="user_checkbox">User Checkbox:</label>
-            <input type="checkbox" name="user_checkbox" value="yes">
+            <input type="checkbox" name="user_checkbox" value="yes" id="user_checkbox">
         </div>
         <div>
             <p>Pick a color:</p>
