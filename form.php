@@ -24,7 +24,7 @@
     <form action="form.php" method="post">
         <div>
             <label for="user_name">User Name:</label>
-            <input type="text" name="user_name" id="user_name">
+            <input type="text" name="user_name" id="user_name" placeholder="Steve">
         </div>
         <div>
             <label for="user_email">Email:</label>
